@@ -12,14 +12,13 @@
 <div align="center">
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://zxy6.indevs.in/">
-    <img src="https://by.yx520.love/file/1775133527913_DM_20250711194030_001.JPEG" style="height: 100px;" alt="我的博客图片"/>
   </a>
   
 <div style="margin-top: 10px; display: flex; gap: 28px; align-items: center;">
-  <a href="https://zxy6.indevs.in/">
+  <a href="https://me.hitodev.com/">
     <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
   </a>
-  <a href="mailto:zxy@zxy6.eu.cc">
+  <a href="mailto:xyz@zxy6.eu.cc">
     <img align="center" alt="Cedric邮箱" width="22px" src="./static/icon/email.svg" />
   </a>
   <a href="https://zxy6.indevs.in/">
@@ -28,10 +27,10 @@
   <a href="https://by.yx520.love/">
     <img align="center" alt="个人相册" width="22px" src="./static/icon/gallery.svg" />
   </a>
-  <a href="https://gitee.com/">
+  <a href="https://gitee.com/sjj_c">
     <img align="center" alt="gitee首页" width="22px" src="./static/icon/gitee.svg" />
   </a>
-  <a href="https://www.github.com/wyx8999">
+  <a href="https://www.github.com/cedric39">
     <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
   </a>
 </div>
