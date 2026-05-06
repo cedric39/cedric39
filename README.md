@@ -12,7 +12,7 @@
 <div align="center">
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://zxy6.indevs.in/">
-    <img src="https://by.yx520.love/file/1778065806766_屏幕截图_2026-05-06_190919.png" style="height: 100px;" alt="我的博客图片"/>
+    <img src="https://by.yx520.love/file/1778065809582_屏幕截图_2026-05-06_190943.png" style="height: 100px;" alt="我的博客图片"/>
   </a>
   
 <div style="margin-top: 10px; display: flex; gap: 28px; align-items: center;">
