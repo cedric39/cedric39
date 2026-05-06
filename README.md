@@ -134,4 +134,3 @@
 
 </div>
 
-<img align='right' src="./static/1.png" width="150" alt="person">
