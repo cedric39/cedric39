@@ -22,8 +22,8 @@
   <a href="mailto:xyz@zxy6.eu.cc">
     <img align="center" alt="Cedric邮箱" width="22px" src="./static/icon/email.svg" />
   </a>
-  <a href="https://zxy6.indevs.in/">
-    <img align="center" alt="个人博客" width="22px" src="./static/icon/blog.svg" />
+  <a href="https://zxy6666.sylu.cc/">
+    <img align="center" alt="日常博客" width="22px" src="./static/icon/blog.svg" />
   </a>
   <a href="https://by.yx520.love/">
     <img align="center" alt="个人相册" width="22px" src="./static/icon/gallery.svg" />
@@ -43,20 +43,20 @@
   <h3>💻 GitHub档案 / Github Profile</h3>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  ![Top Langs](https://github-readme-status.sanyue.site/api/top-langs/?username=wyx8999&theme=dracula&locale=cn&border_radius=12)
-  ![wyx8999's GitHub stats](https://github-readme-status.sanyue.site/api?username=wyx8999&theme=dracula&locale=cn&border_radius=12)
+  ![Top Langs](https://github-readme-status.sanyue.site/api/top-langs/?username=cedric39&theme=dracula&locale=cn&border_radius=12)
+  ![wyx8999's GitHub stats](https://github-readme-status.sanyue.site/api?username=cedric39&theme=dracula&locale=cn&border_radius=12)
   <br/>
 
   <h3>🔥 我的贡献 / Contributions</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=wyx8999&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=cedric39&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
   </p>
 
 <h3>🚀 我的github活动 / Activities</h3>
 <p align="center">
   <a href="https://zxy6.indevs.in/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wyx8999&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedric39&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
 </p>
   
@@ -112,7 +112,7 @@
 
 [![Website](https://img.shields.io/badge/Website-日常网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blog.cedric.fnrry.com/)
 
-[![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxy@zxy6.eu.cc)
+[![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyz@zxy6.eu.cc)
 
 </div>
 
@@ -121,7 +121,7 @@
 <div align="center">
 
   <h3>❤️ 公益服务 / Public Service</h3>
-  <h4>图床：<a href="https://by.ezlk.top">ImgHub(密码:zxy)</a></h4>
+  <h4>图床：<a href="https://by.ezlk.top">ImgHub</a></h4>
 
 ---
 <div align="center">
