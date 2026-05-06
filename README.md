@@ -11,7 +11,7 @@
 ---
 <div align="center">
   <h3>:snowman: 我的博客 / My Blog</h3>
-  <a href="https://zxy6.indevs.in/">
+  <a href="https://me.ciuik.cn/">
     <img src="https://by.yx520.love/file/1778065809582_屏幕截图_2026-05-06_190943.png" style="height: 100px;" alt="我的博客图片"/>
   </a>
   
@@ -55,7 +55,7 @@
 
 <h3>🚀 我的github活动 / Activities</h3>
 <p align="center">
-  <a href="https://zxy6.indevs.in/">
+  <a href="https://me.ciuik.cn/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedric39&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
 </p>
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[<img src="./static/icons.png" alt="点击进入个人站点">](https://zxy6.indevs.in/)
+[<img src="./static/icons.png" alt="点击进入个人站点">](https://me.ciuik.cn/)
 
 ### 前端技术栈
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-学习网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zxy6.indevs.in/)
+[![Website](https://img.shields.io/badge/Website-学习网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://me.ciuik.cn/)
 
 [![Website](https://img.shields.io/badge/Website-日常网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blog.cedric.fnrry.com/)
 
